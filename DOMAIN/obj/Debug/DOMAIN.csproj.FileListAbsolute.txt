@@ -1,0 +1,6 @@
+C:\Users\Angel Rivero\source\repos\MVCAjax\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Users\Angel Rivero\source\repos\MVCAjax\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Users\Angel Rivero\source\repos\MVCAjax\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+C:\Users\Angel Rivero\source\repos\MVCAjax\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Angel Rivero\source\repos\MVCAjax\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Users\Angel Rivero\source\repos\MVCAjax\DOMAIN\obj\Debug\DOMAIN.pdb

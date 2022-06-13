@@ -1,0 +1,17 @@
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\bin\Debug\SERVICE.dll.config
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\bin\Debug\SERVICE.dll
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\bin\Debug\SERVICE.pdb
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\bin\Debug\DOMAIN.dll
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\bin\Debug\EntityFramework.dll
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\bin\Debug\INFRAESTRUCTURE.dll
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\bin\Debug\DOMAIN.pdb
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\bin\Debug\INFRAESTRUCTURE.pdb
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\bin\Debug\INFRAESTRUCTURE.dll.config
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\bin\Debug\EntityFramework.xml
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\obj\Debug\SERVICE.csproj.AssemblyReference.cache
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\obj\Debug\SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\obj\Debug\SERVICE.csproj.CopyComplete
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\obj\Debug\SERVICE.dll
+C:\Users\Angel Rivero\source\repos\MVCAjax\SERVICE\obj\Debug\SERVICE.pdb
